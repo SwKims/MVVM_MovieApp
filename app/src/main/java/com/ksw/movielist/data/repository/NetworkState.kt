@@ -14,6 +14,7 @@ class NetworkState(val status : Status, val msg : String) {
         val LOADED : NetworkState = NetworkState(Status.SUCCESS, "성공")
         val LOADING : NetworkState = NetworkState(Status.RUNNING, "로딩중")
         val ERROR : NetworkState = NetworkState(Status.FAILED, "실패")
+        val END : NetworkState = NetworkState(Status.FAILED, "데이터의 끝에 도달했습니다.")
     }
 
 }

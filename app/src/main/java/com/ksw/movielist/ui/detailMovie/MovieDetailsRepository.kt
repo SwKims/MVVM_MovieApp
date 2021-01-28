@@ -1,4 +1,4 @@
-package com.ksw.movielist.ui.details
+package com.ksw.movielist.ui.detailMovie
 
 import androidx.lifecycle.LiveData
 import com.ksw.movielist.data.api.TheMovieDBInterface

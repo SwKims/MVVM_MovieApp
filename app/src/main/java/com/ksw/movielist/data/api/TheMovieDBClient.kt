@@ -16,6 +16,9 @@ const val BASE_URL = "https://api.themoviedb.org/3/"
 const val POSTER_BASE_URL = "https://image.tmdb.org/t/p/w342"
 const val LANGUAGE = "ko-KR"
 
+const val PAGE_START = 1
+const val PAGE_END = 20
+
 // https://api.themoviedb.org/3/movie/299534?api_key=4defd070082d28cda9bb902140bcf8d0&language=ko-KR
 
 object TheMovieDBClient {

@@ -11,8 +11,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.MovieList">
-        <activity android:name="com.ksw.movielist.ui.details.SingleMovie"></activity>
-        <activity android:name=".ui.MainActivity">
+        <activity android:name="com.ksw.movielist.ui.detailMovie.SingleMovie"></activity>
+        <activity android:name=".ui.popularMovie.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
