@@ -2,7 +2,7 @@
 
 MovieListApp (Use MVVM Pattern)
 
-[TMDB api를 이용한] https://www.themoviedb.org/
+[TMDB api](https://www.themoviedb.org/) 사용한 영화 리스트 앱.
 
 
 
